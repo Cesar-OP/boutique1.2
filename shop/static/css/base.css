@@ -1,0 +1,483 @@
+@import url(//fonts.googleapis.com/css?family=Ubuntu);
+
+body {
+    margin:0;
+    padding: 3%;
+    padding-top:1% ;
+    overflow: visible;
+    font-family:helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5 , h6 {
+    font-family: 'Ubuntu', sans-serif; font-weight:normal;
+}
+
+a {
+    text-decoration:none;
+    color:#5993bb;
+}
+
+a:hover {
+    color:#77b6e2;
+}
+
+a.button, input[type="submit"] {
+    color:#fff;
+    background:#5993bb;
+    border-radius:5px;
+    /* padding:10px 20px; */
+    font-size:14px;
+    border:0;
+}
+
+a.button.light {
+    color:#666;
+    background:#ededed;
+
+}
+
+.text-left {
+    text-align:left;
+}
+
+.text-right {
+    text-align:right;
+    font-size: large;
+}
+
+/* p.text-right .button {
+    font-size: large;
+    height: 25px;
+    width: 25px;
+    border-radius: 10px;
+} */
+
+p.text-right a.button {
+    width: 180px; /* Width */
+    height: 38px; /* Height */
+    display: inline-block; /* To apply width and height */
+    line-height: 38px; /* To vertically center the text */
+    text-align: center; /* To horizontally center the text */
+  }
+
+
+table, thead, tbody, tr, th, td {
+    float: none;
+}
+table {
+    width:100%;
+    border-spacing:0;
+    border-collapse: collapse;
+}
+table, th, td {
+    box-sizing: border-box;
+}
+table th, table td {
+    text-align:left;
+    font-size:14px;
+    padding:1.2%;
+    margin:0;
+}
+
+tbody tr:nth-child(odd) {
+    background:#efefef;
+}
+
+tbody tr.subtotal {
+    background:#ccc;
+}
+
+thead th, tbody tr.total {
+    background:#5993bb;
+    color:#fff;
+    font-weight:bold;
+}
+
+table.cart {
+    margin-bottom:40px;
+}
+
+table.cart img {
+    width:180px;
+}
+
+tbody td.num {
+    text-align:left;
+}
+
+td input[type="submit"] {
+    font-size:12px;
+    padding:4px 10px;
+}
+
+form p label, form p input {
+    float:left;
+    clear:both;
+}
+
+form p label {
+    font-size:14px;
+    padding-bottom:4px;
+}
+
+form p input {
+    width:300px;
+    font-size:13px;
+    margin-bottom:10px;
+    padding:10px 12px;
+    border:0;
+    background:#efefef;
+    color:#666;
+    border-radius:4px;
+}
+
+ul.errorlist {
+   float:left;
+   color:#ff0000;
+   clear:both;
+   font-size:13px;
+   margin:0 0 0 10px;
+   padding:10px 0;
+}
+
+
+#header {
+    /* padding:10px 6.95%; */
+    padding-bottom: 2%;
+    /* font-size: 425px; */
+    overflow:auto;
+}
+
+#subheader {
+    background:#ececec;
+    color:#444;
+    padding:15px 10%;
+    overflow:auto;
+}
+
+#header .logo {
+    font-family: 'Ubuntu', sans-serif;
+    float:left;
+    color:#333;
+    font-size:1.5rem;
+    margin-right:10%;
+}
+
+#subheader .cart {
+    float:right;
+    padding-top:4px;
+}
+
+.cart-sub{
+    background-color: transparent;
+    padding-right: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+#subheader .cart-sub img {
+    float: right;
+    width: 1.8%;
+    height: 2.3%;
+    background-color: transparent;
+    padding-right: 0.8%;
+    align-self: center;
+
+}
+
+#content {
+    height: auto;
+    max-height: none;
+    overflow: visible;
+  }
+
+  .container {
+    height: auto;
+    max-height: none;
+    overflow: visible;
+  }
+  
+#sidebar {
+    width: 100%; /* Full-width to act like a header */
+    padding-bottom: 1%; 
+    padding-top: 1%;
+    float: none; /* Remove float */
+    background-color: #ffffff; /* Background color */
+}
+
+#sidebar h2{
+    padding-bottom: 1%;
+    margin: 0;
+}
+#sidebar ul {
+    margin: 0;
+    padding: 0;
+    display: flex; /* Make it horizontal */
+    justify-content: space-around; /* Distribute items evenly */
+}
+
+#sidebar ul li {
+    margin: 0;
+    list-style: none;
+    padding: 1%;
+    flex-grow: 1; /* Allow it to grow and take available space */
+    text-align: center; /* Center the text */
+}
+
+#sidebar ul li a {
+    display: block;
+}
+
+#sidebar ul li.selected {
+    background: #5993bb;
+    border-radius: 0px;
+}
+
+#sidebar ul li.selected a {
+    color: #fff;
+}
+
+/* New styles for unselected items */
+#sidebar ul li:not(.selected) {
+    /* border: 2px lines lightgray; Add a dashed border to unselected items */
+    background-color: aliceblue;
+}
+
+/* New styles for adding a tiny space between items */
+#sidebar ul li:not(:last-child) {
+    margin-right: 5px;  /* Add a 1px right margin to all items except the last one */
+}
+
+
+#main {
+    height: auto;
+    max-height: none;
+    overflow: visible; /* You said this solves the issue, but let's keep it for now */
+  }
+  
+  
+
+.product-list {
+    display: grid;
+    /* grid-template-columns: repeat(5, 1fr); Adjust as needed */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5%;
+  }
+  
+
+  
+  .item {
+    width: 100%;
+    height: auto; /* Let it grow as needed */
+    /* padding-right: 4%; */
+    /* grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));  */
+
+  }
+  
+  .item-image {
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%; /* 1:1 Aspect Ratio */
+    position: relative; /* If you want text inside of it */
+  }
+  
+  /* Make the image to be at the top of the div */
+  .item-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .product-name, .item-price {
+    display: block;
+    width: 100%;
+    text-align: center;  /* Optional, if you want the text centered */
+    margin: 1%;
+  }
+
+.item-text{
+    text-align: justify;
+    width: 100%;
+}
+
+.item a {
+    font-size: 100%;
+}
+
+.product-detail {
+    text-align:justify;
+}
+
+.product-detail  input[type="submit"] {
+    width: 30%;  /* Set the width */
+    height: 100%;  /* Set the height */
+    font-size: large;
+}
+
+/* Styling the label */
+.product-detail label[for="id_quantity"] {
+    font-size: 18px;
+    padding: 0px;
+}
+
+/* Styling the input field */
+.product-detail select[id="id_quantity"] {
+    width: 40px;
+    height: 35px;
+    font-size: 18px;
+}
+
+.product-detail form {
+    height: 40px;
+}
+
+.product-detail .price {
+    color:#333;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.product-detail img {
+    width:25%;
+
+    float:left;
+    padding:0 20px 20px 0;
+}
+
+.product-detail h1 {
+    margin-bottom:0;
+}
+
+.product-detail h2 {
+    margin-top:10px;
+}
+
+
+.order-form {
+    float:left;
+}
+
+.order-form input[type="submit"] {
+    width: 100%;  /* Set the width */
+    height: 80%;  /* Set the height */
+    font-size: medium;
+
+}
+.order-info {
+    float:right;
+    width:300px;
+    background:#efefef;
+    padding:10px 20px;
+    color:#333;
+    border-bottom:4px solid #5993bb;
+}
+
+.order-info h3 {
+    color:#5993bb;
+}
+
+.order-info ul li {
+    margin:0;
+    padding:0;
+    font-size:14px;
+}
+
+.order-info p {
+    font-weight:bold;
+    float:right;
+    font-size: large;
+}
+
+.order-info span {
+    float:right;
+}
+
+.order-pay form {
+    height: 40px;
+}
+
+.order-pay input[type="submit"] {
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+  }
+.neg {
+    color:#dc1616;
+}
+
+.languages {
+   float:right;
+   padding-top:4px;
+   font-size:14px;
+}
+
+.languages ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    float:left;
+}
+
+.languages ul li {
+    float:left;
+    margin:0 0 0 10px;
+    font-size:14px;
+}
+
+.languages p {
+    float:left;
+    margin:0;
+}
+
+.recommendations {
+    clear:both;
+}
+
+.recommendations div {
+    float:left;
+}
+
+.recommendations img {
+    width:200px
+}
+
+.recommendations p {
+    clear:both;
+}
+
+.recommendations.cart {
+    width:60%;
+    float:left;
+    overflow:auto;
+}
+
+.recommendations.cart h3 {
+    margin-top:0;
+}
+
+.recommendations.cart .item {
+    margin-right:10px;
+}
+
+.recommendations.cart img {
+    width:120px;
+}
+
+/* braintree hosted fields */
+form div.field {
+    font-size:13px;
+    color:#666;
+    width:300px;
+    height:22px;
+    margin-bottom:10px;
+    padding:6px 12px;
+    border:0;
+    background:#efefef;
+    color:#666;
+    border-radius:4px;
+}
