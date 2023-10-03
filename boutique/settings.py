@@ -22,7 +22,7 @@ ALLOWED_HOSTS = ['*']
 
 
 if IS_HEROKU_APP:
-    ALLOWED_HOSTS = ["boutiquedaana",'www.boutiquedaana.com.br','boutiqueana-23364df9bc33.herokuapp.com']
+    ALLOWED_HOSTS = ["boutiquedaana.com.br",'www.boutiquedaana.com.br','boutiqueana-23364df9bc33.herokuapp.com']
     DEBUG = False
 
 
