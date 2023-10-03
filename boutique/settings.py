@@ -14,12 +14,16 @@ IS_HEROKU_APP = "DYNO" in os.environ and not "CI" in os.environ
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-f)t4tswg^uk4x(=2e8iv7+8iu*9l(h2c53v*z2_-3m#e*$2y+!'
+SECRET_KEY=(config, 'SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+ALLOWED_HOSTS = ['*']
 
-ALLOWED_HOSTS = []
+
+if IS_HEROKU_APP:
+    ALLOWED_HOSTS = ["boutiquedaana",'www.boutiquedaana.com.br','boutiqueana-23364df9bc33.herokuapp.com']
+    DEBUG = False
 
 
 # Application definition
@@ -183,3 +187,13 @@ LOGGING = {
         },
     },
 }
+
+if IS_HEROKU_APP:
+    CSRF_COOKIE_SECURE = True
+    SESSION_COOKIE_SECURE = True
+    SECURE_SSL_REDIRECT = True
+    
+else:
+    CSRF_COOKIE_SECURE = False
+    SESSION_COOKIE_SECURE = False
+    SECURE_SSL_REDIRECT = False
