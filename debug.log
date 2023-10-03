@@ -7042,3 +7042,136 @@ File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\de
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\sv_SE\LC_MESSAGES\django.mo first seen with mtime 1696079451.6563091
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1696079451.658309
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1696079451.6593118
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1692380276.1465447
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1692380276.3115473
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1692380277.6252823
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1692380275.944168
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1692380276.1415467
+File C:\Users\CESAR\new_django\projeto\boutique\wsgi.py first seen with mtime 1696248891.8432307
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0004_rename_endereço_order_address_and_more.py first seen with mtime 1693176094.865719
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0001_initial.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\new_django\projeto\shop\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1692380276.1393874
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1692380276.1415467
+File C:\Users\CESAR\new_django\projeto\orders\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\new_django\projeto\cart\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0003_rename_city_order_cidade_rename_email_order_email_and_more.py first seen with mtime 1693175947.947955
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1692380277.6302817
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0002_order_stripe_id.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1692380278.1635926
+File C:\Users\CESAR\new_django\projeto\payment\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1692380275.9501684
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1692380277.6292822
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1692380276.1465447
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1692380275.5910158
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1692380276.3126018
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1692380277.8284068
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1692380278.1998098
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1692380278.16459
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1692380275.5921383
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1692380277.8294075
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0001_initial.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1692380278.0547404
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1692380277.628283
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1692380276.145545
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1692380278.1666193
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py first seen with mtime 1692380278.2911756
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1692380278.2901762
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\csrf.py first seen with mtime 1692380278.3656363
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1692380276.145545
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1692380276.9865806
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0002_product_stock.py first seen with mtime 1694960334.2668672
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1692380276.1435452
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1692380278.1625905
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1692380276.1425476
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1692380276.1425476
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1692380276.1435452
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1692380276.3116024
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1692380275.5921383
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1692380275.5931382
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1692380276.1445446
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1692380276.1383889
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0003_alter_product_stock.py first seen with mtime 1696078590.1440997
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-03 10:55:57.597433' AND "django_session"."session_key" = '4fjmf2qyvxnmzy6heh5cgb9caozpn3nk') LIMIT 21; args=('2023-10-03 10:55:57.597433', '4fjmf2qyvxnmzy6heh5cgb9caozpn3nk'); alias=default
+Session data corrupted
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC LIMIT 21; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC LIMIT 21; args=(); alias=default
+Exception while resolving variable 'cart' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [cart] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: '2W3YmcyhTOcDSGwWlMVpvxSmN9NkYTnCrTLQnnp1fRyNxHs0SI6OuW2YC5HggQC3'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x0000023039C0B880>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000023038E2D910>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000023038E2D910>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'category': None, 'categories': <QuerySet []>, 'products': <QuerySet []>}]
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC LIMIT 21; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC LIMIT 21; args=(); alias=default
+Exception while resolving variable 'order' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [order] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: '2W3YmcyhTOcDSGwWlMVpvxSmN9NkYTnCrTLQnnp1fRyNxHs0SI6OuW2YC5HggQC3'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x0000023039C0B880>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000023038E2D910>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000023038E2D910>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'category': None, 'categories': <QuerySet []>, 'products': <QuerySet []>}, {'total_items': 0}]
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC; args=(); alias=default
+"GET / HTTP/1.1" 200 9929
+"GET /static/css/base.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1692380276.9865806
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1692380276.990581
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1692380275.947167
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1692380276.9915805
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1692380277.627282
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context_processors.py first seen with mtime 1692380278.298177
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1692380276.9895823
