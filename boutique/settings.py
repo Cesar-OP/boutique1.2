@@ -228,18 +228,17 @@ else:
     SECURE_SSL_REDIRECT = False
     
     
-if IS_HEROKU_APP:
-    CACHES = {
-        'default': {
-            'BACKEND': 'django.core.cache.backends.memcached.PyMemcacheCache',
-            'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').split(','),
-            'OPTIONS': {
-                'username': os.environ.get('MEMCACHIER_USERNAME', ''),
-                'password': os.environ.get('MEMCACHIER_PASSWORD', ''),
-                'binary': True,
-            },
+CACHES = {
+    'default': {
+        'BACKEND': 'django_bmemcached.memcached.BMemcached',
+        'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').split(','),
+        'OPTIONS': {
+            'username': os.environ.get('MEMCACHIER_USERNAME', ''),
+            'password': os.environ.get('MEMCACHIER_PASSWORD', ''),
         },
-    }
+    },
+}
+
 
 print("IS_HEROKU_APP is set to:", IS_HEROKU_APP)
 
