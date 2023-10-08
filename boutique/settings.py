@@ -154,7 +154,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 if IS_HEROKU_APP:
     MEDIA_URL = os.environ.get('BUCKETEER_AWS_BUCKET_URL', '')  # Fallback to an empty string or some default if not found
-
     DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
     AWS_ACCESS_KEY_ID = os.environ.get('BUCKETEER_AWS_ACCESS_KEY_ID')
     AWS_SECRET_ACCESS_KEY = os.environ.get('BUCKETEER_AWS_SECRET_ACCESS_KEY')
@@ -231,6 +230,12 @@ if IS_HEROKU_APP:
         'default': {
             'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
             'LOCATION': os.environ.get('MEMCACHIER_SERVERS', ''),
+            'TIMEOUT': 300,
+            'OPTIONS': {
+                'username': os.environ.get('MEMCACHIER_USERNAME', ''),
+                'password': os.environ.get('MEMCACHIER_PASSWORD', ''),
+            }
         }
     }
+
 
