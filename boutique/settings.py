@@ -42,8 +42,6 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -51,6 +49,10 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
+    
+    
 ]
 
 ROOT_URLCONF = 'boutique.urls'
@@ -86,7 +88,7 @@ if IS_HEROKU_APP:
     # https://github.com/jazzband/dj-database-url
     DATABASES = {
         "default": dj_database_url.config(
-            conn_max_age=600,
+            conn_max_age=60000,
             conn_health_checks=True,
             ssl_require=True,
         ),
