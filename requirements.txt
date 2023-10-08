@@ -113,7 +113,6 @@ python-decouple==3.8
 python-json-logger==2.0.7
 python-stdnum==1.18
 pytz==2023.3
-pywin32==306
 pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.0
