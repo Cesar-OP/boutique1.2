@@ -231,6 +231,7 @@ if IS_HEROKU_APP:
             'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
             'LOCATION': os.environ.get('MEMCACHIER_SERVERS', ''),
             'TIMEOUT': 300,
+            'BINARY' :True,
             'OPTIONS': {
                 'username': os.environ.get('MEMCACHIER_USERNAME', ''),
                 'password': os.environ.get('MEMCACHIER_PASSWORD', ''),
