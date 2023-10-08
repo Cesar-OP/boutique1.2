@@ -24,7 +24,8 @@ def order_create(request):
                                         quantity=item['quantity'])
             # clear the cart
             cart.clear()
-            # order_created(order.id)
+            # launch asynchronous task
+            order_created(order.id)
             # set the order in the session
             request.session['order_id'] = order.id
             # redirect for payment

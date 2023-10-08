@@ -5,9 +5,6 @@ from decouple import config, Csv
 import django_heroku
 import dj_database_url
 
-
-print("Settings file is being loaded.")
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -26,7 +23,7 @@ ALLOWED_HOSTS = ['*']
 
 if IS_HEROKU_APP:
     ALLOWED_HOSTS = ["boutiquedaana.com.br",'www.boutiquedaana.com.br','boutiqueana-23364df9bc33.herokuapp.com']
-    DEBUG = True
+    DEBUG = False
 
 
 # Application definition
@@ -42,21 +39,18 @@ INSTALLED_APPS = [
     'orders.apps.OrdersConfig',
     'payment.apps.PaymentConfig',
     'debug_toolbar',
-    'storages',
 ]
 
 MIDDLEWARE = [
-    'django.middleware.security.SecurityMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',
+    'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
-    
-    
 ]
 
 ROOT_URLCONF = 'boutique.urls'
@@ -154,26 +148,10 @@ STORAGES = {
 
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-if IS_HEROKU_APP:
-    MEDIA_URL = os.environ.get('BUCKETEER_AWS_BUCKET_URL', '')  # Fallback to an empty string or some default if not found
-    DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-    AWS_ACCESS_KEY_ID = os.environ.get('BUCKETEER_AWS_ACCESS_KEY_ID')
-    AWS_SECRET_ACCESS_KEY = os.environ.get('BUCKETEER_AWS_SECRET_ACCESS_KEY')
-    AWS_STORAGE_BUCKET_NAME = os.environ.get('BUCKETEER_BUCKET_NAME')
-    # AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
-    AWS_S3_OBJECT_PARAMETERS = {
-        'CacheControl': 'max-age=86400',
-    }
-    AWS_DEFAULT_ACL = 'public-read'
-    AWS_QUERYSTRING_AUTH = False
-else:    
-    MEDIA_URL = 'media/'
-    MEDIA_ROOT = BASE_DIR / 'media'
-
-    
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 CART_SESSION_ID = 'cart'
-
+SESSION_ENGINE = 'django.contrib.sessions.backends.db'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
@@ -212,11 +190,6 @@ LOGGING = {
     },
 }
 
-SESSION_COOKIE_AGE = 1209600  # 2 weeks, in seconds
-SESSION_EXPIRE_AT_BROWSER_CLOSE = False
-SESSION_ENGINE= 'django.contrib.sessions.backends.cached_db'
-
-
 if IS_HEROKU_APP:
     CSRF_COOKIE_SECURE = True
     SESSION_COOKIE_SECURE = True
@@ -226,15 +199,3 @@ else:
     CSRF_COOKIE_SECURE = False
     SESSION_COOKIE_SECURE = False
     SECURE_SSL_REDIRECT = False
-    
-    
-CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
-        'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').split(','),
-    },
-}
-
-
-print("IS_HEROKU_APP is set to:", IS_HEROKU_APP)
-
