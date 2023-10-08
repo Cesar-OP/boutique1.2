@@ -230,8 +230,7 @@ if IS_HEROKU_APP:
     CACHES = {
         'default': {
             'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
-            'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').replace(',', ';'),
-            'BINARY': True,
+            'LOCATION': os.environ.get('MEMCACHIER_SERVERS', ''),
         }
     }
 
