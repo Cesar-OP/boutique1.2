@@ -15118,3 +15118,365 @@ File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\de
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\sv_SE\LC_MESSAGES\django.mo first seen with mtime 1696079451.6563091
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1696079451.658309
 File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\debug_toolbar\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1696079451.6593118
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1692380278.1635926
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0004_rename_endereço_order_address_and_more.py first seen with mtime 1693176094.865719
+File C:\Users\CESAR\new_django\projeto\cart\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1692380276.1465447
+File C:\Users\CESAR\new_django\projeto\boutique\wsgi.py first seen with mtime 1696248891.8432307
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1692380276.3116024
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1692380275.5921383
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1692380278.16459
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1692380276.145545
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1692380277.8284068
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1692380275.5910158
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1692380276.145545
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1692380276.3115473
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1692380278.2901762
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0003_rename_city_order_cidade_rename_email_order_email_and_more.py first seen with mtime 1693175947.947955
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1692380277.8294075
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1692380275.5931382
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1692380276.1425476
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1692380276.1393874
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1692380276.1383889
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0002_order_stripe_id.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1692380277.6302817
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0002_product_stock.py first seen with mtime 1694960334.2668672
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0003_alter_product_stock.py first seen with mtime 1696078590.1440997
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1692380278.1998098
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1692380276.1465447
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1692380276.9865806
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1692380276.1425476
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\csrf.py first seen with mtime 1692380278.3656363
+File C:\Users\CESAR\new_django\projeto\shop\migrations\0001_initial.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\new_django\projeto\orders\migrations\0001_initial.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1692380278.0547404
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1692380276.3126018
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1692380276.1415467
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1692380278.1625905
+File C:\Users\CESAR\new_django\projeto\shop\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\new_django\projeto\payment\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1692380276.1435452
+File C:\Users\CESAR\new_django\projeto\orders\migrations\__init__.py first seen with mtime 1674036809.0
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1692380276.1435452
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1692380276.1445446
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1692380275.5921383
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1692380276.1415467
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1692380278.1666193
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:39:07.490965' AND "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw') LIMIT 21; args=('2023-10-08 14:39:07.490965', '62q1spfgc74qhivc8n743odzf4joljcw'); alias=default
+Session data corrupted
+"GET /admin/shop/product/ HTTP/1.1" 302 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:39:07.896081' AND "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw') LIMIT 21; args=('2023-10-08 14:39:07.896081', '62q1spfgc74qhivc8n743odzf4joljcw'); alias=default
+Session data corrupted
+"GET /admin/login/?next=/admin/shop/product/ HTTP/1.1" 200 11646
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1692380277.627282
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1692380276.9915805
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1692380276.9895823
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1692380276.990581
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1692380274.8535771
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\tzdata\__init__.py first seen with mtime 1687624287.835333
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context_processors.py first seen with mtime 1692380278.298177
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1692380276.9865806
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1692380274.8535771
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1692380275.947167
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1692380275.9561708
+File C:\Users\CESAR\new_django\projeto\shop\context_processors.py first seen with mtime 1696772371.2108588
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1687624287.8588521
+File C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\forms.py first seen with mtime 1692380275.2816346
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:39:11.841672' AND "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw') LIMIT 21; args=('2023-10-08 14:39:11.841672', '62q1spfgc74qhivc8n743odzf4joljcw'); alias=default
+Session data corrupted
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC LIMIT 21; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC LIMIT 21; args=(); alias=default
+Exception while resolving variable 'cart' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [cart] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'AeGJoIv3qPHOdfVnb8BYOUHIas7TQnU5QzyMHPinIXOYW4OJBoSfQJgV0rjtVVr8'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x0000017A0EE18FE0>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}, 'whats_number': '+551195169416'}, {}, {'category': None, 'categories': <QuerySet [<Category: Blusas>, <Category: Calças>, <Category: Conjuntos>, <Category: Croppeds>]>, 'products': <QuerySet [<Product: Blusa>]>}]
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC LIMIT 21; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC LIMIT 21; args=(); alias=default
+Exception while resolving variable 'order' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'order'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [order] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'AeGJoIv3qPHOdfVnb8BYOUHIas7TQnU5QzyMHPinIXOYW4OJBoSfQJgV0rjtVVr8'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x0000017A0EE18FE0>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}, 'whats_number': '+551195169416'}, {}, {'category': None, 'categories': <QuerySet [<Category: Blusas>, <Category: Calças>, <Category: Conjuntos>, <Category: Croppeds>]>, 'products': <QuerySet [<Product: Blusa>]>}, {'total_items': 0}]
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC; args=(); alias=default
+Exception while resolving variable 'slug' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [slug] in None
+Exception while resolving variable 'slug' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [slug] in None
+Exception while resolving variable 'slug' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [slug] in None
+Exception while resolving variable 'slug' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'slug'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [slug] in None
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" WHERE "shop_product"."available" ORDER BY "shop_product"."name" ASC; args=(); alias=default
+Exception while resolving variable 'whatsapp_number' in template 'shop/product/list.html'.
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'whatsapp_number'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'whatsapp_number'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'whatsapp_number'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CESAR\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [whatsapp_number] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'AeGJoIv3qPHOdfVnb8BYOUHIas7TQnU5QzyMHPinIXOYW4OJBoSfQJgV0rjtVVr8'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x0000017A0EE18FE0>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000017A0EB4D450>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}, 'whats_number': '+551195169416'}, {}, {'category': None, 'categories': <QuerySet [<Category: Blusas>, <Category: Calças>, <Category: Conjuntos>, <Category: Croppeds>]>, 'products': <QuerySet [<Product: Blusa>]>}]
+"GET / HTTP/1.1" 200 11289
+"GET /static/css/base.css HTTP/1.1" 304 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:39:11.982648' AND "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw') LIMIT 21; args=('2023-10-08 14:39:11.982648', '62q1spfgc74qhivc8n743odzf4joljcw'); alias=default
+Session data corrupted
+"GET /media/products/2023/10/08/1695558085167.jpg HTTP/1.1" 304 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:26.261066' AND "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw') LIMIT 21; args=('2023-10-08 14:41:26.261066', '62q1spfgc74qhivc8n743odzf4joljcw'); alias=default
+Session data corrupted
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'anasantos' LIMIT 21; args=('anasantos',); alias=default
+(0.000) SELECT 1 AS "a" FROM "django_session" WHERE "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1' LIMIT 1; args=(1, 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") VALUES ('t21drsdhstbi7gx9hq8kbueso78lrut1', 'e30:1qpUyE:qoOnGIn7nKdCYTLAmrwQ537vhihKcKZWYOe2Oq2C9cY', '2023-10-22 14:41:26.492065'); args=('t21drsdhstbi7gx9hq8kbueso78lrut1', 'e30:1qpUyE:qoOnGIn7nKdCYTLAmrwQ537vhihKcKZWYOe2Oq2C9cY', '2023-10-22 14:41:26.492065'); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE "django_session"."session_key" = '62q1spfgc74qhivc8n743odzf4joljcw' LIMIT 21; args=('62q1spfgc74qhivc8n743odzf4joljcw',); alias=default
+(0.000) DELETE FROM "django_session" WHERE "django_session"."session_key" IN ('62q1spfgc74qhivc8n743odzf4joljcw'); args=('62q1spfgc74qhivc8n743odzf4joljcw',); alias=default
+(0.000) UPDATE "auth_user" SET "last_login" = '2023-10-08 14:41:26.513041' WHERE "auth_user"."id" = 1; args=('2023-10-08 14:41:26.513041', 1); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE "django_session" SET "session_data" = '.eJxVjEEOwiAQRe_C2hBAOkNcuvcMZGBAqgaS0q6Md29Iuqjb_977X-FpW4vfelr8zOImtLict0DxneoA_KL6bDK2ui5zkEORB-3y0Th97of7d1Col1FzBqsyANoATGCuKiq2iJYmh4Y0gzaaLXMAMujchDqnrLIBghhZ_HbdEjf9:1qpUyE:3iyoSE6HpOS2NZJLPN2TVWvQJMVpWu_1uyN0R2kshDE', "expire_date" = '2023-10-22 14:41:26.521041' WHERE "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1'; args=('.eJxVjEEOwiAQRe_C2hBAOkNcuvcMZGBAqgaS0q6Md29Iuqjb_977X-FpW4vfelr8zOImtLict0DxneoA_KL6bDK2ui5zkEORB-3y0Th97of7d1Col1FzBqsyANoATGCuKiq2iJYmh4Y0gzaaLXMAMujchDqnrLIBghhZ_HbdEjf9:1qpUyE:3iyoSE6HpOS2NZJLPN2TVWvQJMVpWu_1uyN0R2kshDE', '2023-10-22 14:41:26.521041', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+"POST /admin/login/?next=/admin/shop/product/ HTTP/1.1" 302 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:26.571626' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:26.571626', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_product"; args=(); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_product"; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" ORDER BY "shop_product"."name" ASC, "shop_product"."id" DESC; args=(); alias=default
+"GET /admin/shop/product/ HTTP/1.1" 200 21174
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:26.747600' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:26.747600', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:26.792600' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:26.792600', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+"GET /media/products/2023/10/08/1695558085167.jpg HTTP/1.1" 304 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:31.630311' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:31.630311', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_category"; args=(); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_category"; args=(); alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC, "shop_category"."id" DESC; args=(); alias=default
+"GET /admin/shop/category/ HTTP/1.1" 200 17905
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:31.747311' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:31.747311', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:36.093702' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:36.093702', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" WHERE "shop_category"."id" = 2 LIMIT 21; args=(2,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'shop' AND "django_content_type"."model" = 'category') LIMIT 21; args=('shop', 'category'); alias=default
+"GET /admin/shop/category/2/change/ HTTP/1.1" 200 17269
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:36.233172' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:36.233172', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:37.138428' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:37.138428', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" WHERE "shop_category"."id" = 2 LIMIT 21; args=(2,); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock", "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_product" INNER JOIN "shop_category" ON ("shop_product"."category_id" = "shop_category"."id") WHERE "shop_product"."category_id" IN (2) ORDER BY "shop_product"."name" ASC; args=(2,); alias=default
+"GET /admin/shop/category/2/delete/ HTTP/1.1" 200 15530
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+(0.015) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:38.360911' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:38.360911', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" WHERE "shop_category"."id" = 2 LIMIT 21; args=(2,); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock", "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_product" INNER JOIN "shop_category" ON ("shop_product"."category_id" = "shop_category"."id") WHERE "shop_product"."category_id" IN (2) ORDER BY "shop_product"."name" ASC; args=(2,); alias=default
+(0.000) INSERT INTO "django_admin_log" ("action_time", "user_id", "content_type_id", "object_id", "object_repr", "action_flag", "change_message") VALUES ('2023-10-08 14:41:38.372909', 1, 7, '2', 'Calças', 3, '') RETURNING "django_admin_log"."id"; args=('2023-10-08 14:41:38.372909', 1, 7, '2', 'Calças', 3, ''); alias=default
+(0.000) SELECT "shop_product"."id" FROM "shop_product" WHERE "shop_product"."category_id" IN (2) ORDER BY "shop_product"."name" ASC; args=(2,); alias=default
+(0.000) DELETE FROM "shop_category" WHERE "shop_category"."id" IN (2); args=(2,); alias=default
+"POST /admin/shop/category/2/delete/ HTTP/1.1" 302 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:38.421587' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:38.421587', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_category"; args=(); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "shop_category"; args=(); alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."name" ASC, "shop_category"."id" DESC; args=(); alias=default
+"GET /admin/shop/category/ HTTP/1.1" 200 17826
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2023-10-08 14:41:38.571563' AND "django_session"."session_key" = 't21drsdhstbi7gx9hq8kbueso78lrut1') LIMIT 21; args=('2023-10-08 14:41:38.571563', 't21drsdhstbi7gx9hq8kbueso78lrut1'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+(0.000) SELECT "django_admin_log"."id", "django_admin_log"."action_time", "django_admin_log"."user_id", "django_admin_log"."content_type_id", "django_admin_log"."object_id", "django_admin_log"."object_repr", "django_admin_log"."action_flag", "django_admin_log"."change_message" FROM "django_admin_log" ORDER BY "django_admin_log"."id" ASC; args=(); alias=default
+(0.000) SELECT "auth_group"."id", "auth_group"."name" FROM "auth_group" ORDER BY "auth_group"."id" ASC; args=(); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" ORDER BY "auth_user"."id" ASC; args=(); alias=default
+(0.000) SELECT "auth_group"."id", "auth_group"."name" FROM "auth_group" INNER JOIN "auth_user_groups" ON ("auth_group"."id" = "auth_user_groups"."group_id") WHERE "auth_user_groups"."user_id" = 1; args=(1,); alias=default
+(0.000) SELECT "auth_permission"."id", "auth_permission"."name", "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "auth_user_user_permissions" ON ("auth_permission"."id" = "auth_user_user_permissions"."permission_id") INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_user_user_permissions"."user_id" = 1 ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1,); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" ORDER BY "django_session"."session_key" ASC; args=(); alias=default
+(0.000) SELECT "shop_category"."id", "shop_category"."name", "shop_category"."slug" FROM "shop_category" ORDER BY "shop_category"."id" ASC; args=(); alias=default
+(0.000) SELECT "shop_product"."id", "shop_product"."category_id", "shop_product"."name", "shop_product"."slug", "shop_product"."image", "shop_product"."description", "shop_product"."price", "shop_product"."available", "shop_product"."created", "shop_product"."updated", "shop_product"."stock" FROM "shop_product" ORDER BY "shop_product"."id" ASC; args=(); alias=default
+(0.000) SELECT "orders_order"."id", "orders_order"."first_name", "orders_order"."last_name", "orders_order"."email", "orders_order"."address", "orders_order"."postal_code", "orders_order"."city", "orders_order"."created", "orders_order"."updated", "orders_order"."paid", "orders_order"."stripe_id" FROM "orders_order" ORDER BY "orders_order"."id" ASC; args=(); alias=default
+(0.000) SELECT "orders_orderitem"."id", "orders_orderitem"."order_id", "orders_orderitem"."product_id", "orders_orderitem"."price", "orders_orderitem"."quantity" FROM "orders_orderitem" ORDER BY "orders_orderitem"."id" ASC; args=(); alias=default
