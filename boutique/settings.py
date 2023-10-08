@@ -239,4 +239,5 @@ if IS_HEROKU_APP:
         }
     }
 
+print("IS_HEROKU_APP is set to:", IS_HEROKU_APP)
 
