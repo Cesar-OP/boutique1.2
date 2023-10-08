@@ -228,12 +228,13 @@ else:
     
 if IS_HEROKU_APP:
     CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.memcached.PyMemcacheCache',
-        'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').split(','),
-        'OPTIONS': {
-            'username': os.environ.get('MEMCACHIER_USERNAME', ''),
-            'password': os.environ.get('MEMCACHIER_PASSWORD', ''),
+        'default': {
+            'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
+            'LOCATION': os.environ.get('MEMCACHIER_SERVERS', '').replace(',', ';'),
+            'BINARY': True,
+            'OPTIONS': {
+                'tcp_nodelay': True,
+                'remove_failed': 4
+            }
         }
     }
-}
