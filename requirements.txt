@@ -157,3 +157,4 @@ widgetsnbextension==4.0.8
 wrapt==1.15.0
 zopfli==0.2.2
 boto3
+django-pylibmc
