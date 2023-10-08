@@ -258,6 +258,15 @@ ul.errorlist {
   }
   
   
+  .wap-icon {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 5vw;  /* 3% of viewport width */
+    height: 5,5vh;  /* 3% of viewport height */
+    /* background-color: #ccc; */
+}
+
 
 .product-list {
     display: grid;
