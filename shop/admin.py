@@ -20,11 +20,10 @@ class ProductAdmin(admin.ModelAdmin):
    
 
     def thumbnail(self, obj):
-        return format_html('<img src="{}" width="100" height="100"/>'.format(obj.image.url))
-    
-
-    
-
+        if obj.image and hasattr(obj.image, 'url'):
+            return format_html('<img src="{}" width="100" height="100"/>'.format(obj.image.url))
+        else:
+            return 'No Image'
 
     thumbnail.allow_tags = True
     thumbnail.short_description = "Thumbnail"

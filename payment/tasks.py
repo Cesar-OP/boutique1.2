@@ -14,8 +14,8 @@ def payment_completed(order_id):
     """
     order = Order.objects.get(id=order_id)
     # create invoice e-mail
-    subject = f'My Shop - Invoice no. {order.id}'
-    message = 'Please, find attached the invoice for your recent purchase.'
+    subject = f"Boutique D'Ana - Invoice no. {order.id}"
+    message = 'Olá, em anexo se encontra o recibo da sua compra.'
     email = EmailMessage(subject,
                          message,
                          'admin@myshop.com',
