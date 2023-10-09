@@ -37,16 +37,6 @@ class Order(models.Model):
             # Stripe path for real payments
             path = '/'
         return f'https://dashboard.stripe.com{path}payments/{self.stripe_id}'
-    
-    def save(self, *args, **kwargs):
-        if self.pk:  # Check if the instance already exists
-            orig = Order.objects.get(pk=self.pk)
-            if not orig.paid and self.paid:  # Check if the 'paid' flag changed to True
-                for item in self.items.all():  # Assuming related_name='items' in OrderItem model
-                    product = item.product
-                    product.stock -= item.quantity  # Assuming 'quantity' field in OrderItem model
-                    product.update_availability()  # Update availability status
-        super(Order, self).save(*args, **kwargs)
 
 
 class OrderItem(models.Model):
