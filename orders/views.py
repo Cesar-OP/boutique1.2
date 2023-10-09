@@ -32,9 +32,10 @@ def order_create(request):
             return redirect(reverse('payment:process'))
     else:
         form = OrderCreateForm()
-    return render(request,
-                  'orders/order/create.html',
-                  {'cart': cart, 'form': form})
+    context = {'cart': cart, 'form': form}
+    print("Context:", context)
+    return render(request, 'orders/order/create.html', context)
+
 
 
 @staff_member_required
