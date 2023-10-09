@@ -23,7 +23,7 @@ ALLOWED_HOSTS = ['*']
 
 if IS_HEROKU_APP:
     ALLOWED_HOSTS = ["boutiquedaana.com.br",'www.boutiquedaana.com.br','boutiqueana-23364df9bc33.herokuapp.com']
-    DEBUG = False
+    DEBUG = True
 
 
 # Application definition
@@ -167,9 +167,6 @@ STRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY')
 STRIPE_API_VERSION = config('STRIPE_API_VERSION')
 STRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET')
 
-INTERNAL_IPS = [
-    '127.0.0.1',
-]
 
 
 if IS_HEROKU_APP:
@@ -226,7 +223,5 @@ else:
     CSRF_COOKIE_SECURE = False
     SESSION_COOKIE_SECURE = False
     SECURE_SSL_REDIRECT = False
-    
-    # settings.py
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
