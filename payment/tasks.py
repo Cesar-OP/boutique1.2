@@ -18,7 +18,7 @@ def payment_completed(order_id):
     message = 'Olá, em anexo se encontra o recibo da sua compra.'
     email = EmailMessage(subject,
                          message,
-                         'admin@boutique.com',
+                         'adm.anasantosjesus@gmail.com',
                          [order.email])
     # generate PDF
     html = render_to_string('orders/order/pdf.html', {'order': order})

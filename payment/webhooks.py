@@ -12,6 +12,8 @@ logger = logging.getLogger(__name__)
 def stripe_webhook(request):
     payload = request.body
     sig_header = request.META['HTTP_STRIPE_SIGNATURE']
+    # print("Received Stripe Signature:", request.META.get('HTTP_STRIPE_SIGNATURE', ''))
+
     event = None
 
     try:
