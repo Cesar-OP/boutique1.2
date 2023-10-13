@@ -1,5 +1,4 @@
 from pathlib import Path
-import secrets
 import os
 from decouple import config, Csv
 import django_heroku
