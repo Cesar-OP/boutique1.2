@@ -3,6 +3,7 @@ import os
 from decouple import config, Csv
 import django_heroku
 import dj_database_url
+from cart import context_processors
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -67,6 +68,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 # 'shop.context_processors.whatsapp_number',
+                'cart.context_processors.cart',
             ],
         },
     },
